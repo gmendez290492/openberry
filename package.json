@@ -1,0 +1,24 @@
+{
+  "name": "openberry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmendez290492/openberry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmendez290492/openberry/issues"
+  },
+  "homepage": "https://github.com/gmendez290492/openberry#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
